@@ -1,0 +1,6 @@
+{
+	"Correo":"jvilleda@bdgsa.net",
+	"CorreoDestino":"johnsvill86@gmail.com",
+	"Asunto":"Reporte transacciones Sigma7",
+	"Cuerpo":"Se adjunta archivo generado por el robot."
+}
